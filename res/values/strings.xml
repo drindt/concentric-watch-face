@@ -78,125 +78,11 @@
 	<string name="cloud">
 		Cloud
 	</string>
-	<string name="watermelon">
-		Watermelon
-	</string>
-	<string name="tangerine_red">
-		Tangerine Red
-	</string>
-	<string name="pumpkin">
-		Pumpkin
-	</string>
-	<string name="coral">
-		Coral
-	</string>
-	<string name="mango">
-		Mango
-	</string>
-	<string name="gold">
-		Gold
-	</string>
-	<string name="tangerine">
-		Tangerine
-	</string>
-	<string name="peach">
-		Peach
-	</string>
-	<string name="sunshine">
-		Sunshine
-	</string>
-	<string name="minty_yellow">
-		Minty Yellow
-	</string>
-	<string name="mango_yellow">
-		Mango Yellow
-	</string>
-	<string name="mint">
-		Mint
-	</string>
-	<string name="peppermint">
-		Peppermint
-	</string>
-	<string name="spring_green">
-		Spring Green
-	</string>
-	<string name="forest">
-		Forest
-	</string>
-	<string name="emerald">
-		Emerald
-	</string>
-	<string name="lime">
-		Lime
-	</string>
-	<string name="sky">
-		Sky
-	</string>
-	<string name="turquoise">
-		Turquoise
-	</string>
-	<string name="teal">
-		Teal
-	</string>
-	<string name="ocean">
-		Ocean
-	</string>
-	<string name="celeste">
-		Celeste
-	</string>
-	<string name="azure">
-		Azure
-	</string>
-	<string name="aquamarine">
-		Aquamarine
-	</string>
-	<string name="periwinkle">
-		Periwinkle
-	</string>
-	<string name="frost">
-		Frost
-	</string>
-	<string name="baby_blue">
-		Baby Blue
-	</string>
-	<string name="aqua_light">
-		Aqua Light
-	</string>
-	<string name="royal">
-		Royal
-	</string>
-	<string name="lavender">
-		Lavender
-	</string>
-	<string name="amethyst">
-		Amethyst
-	</string>
-	<string name="floral">
-		Floral
-	</string>
-	<string name="lilac">
-		Lilac
-	</string>
-	<string name="apricot">
-		Apricot
-	</string>
-	<string name="cotton_candy">
-		Cotton Candy
-	</string>
-	<string name="flamingo">
-		Flamingo
-	</string>
-	<string name="blush">
-		Blush
-	</string>
-	<string name="rose">
-		Rose
-	</string>
 	<string name="graphite">
 		Graphite
 	</string>
-	<string name="almond">
-		Almond
+	<string name="watermelon">
+		Watermelon
 	</string>
 	<string name="pomelo">
 		Pomelo
@@ -204,14 +90,32 @@
 	<string name="guava">
 		Guava
 	</string>
+	<string name="tangerine_red">
+		Tangerine Red
+	</string>
+	<string name="pumpkin">
+		Pumpkin
+	</string>
+	<string name="mango">
+		Mango
+	</string>
 	<string name="champagne">
 		Champagne
 	</string>
+	<string name="tangerine">
+		Tangerine
+	</string>
+	<string name="peach">
+		Peach
+	</string>
+	<string name="coral">
+		Coral
+	</string>
+	<string name="gold">
+		Gold
+	</string>
 	<string name="chai">
 		Chai
-	</string>
-	<string name="sand">
-		Sand
 	</string>
 	<string name="honey">
 		Honey
@@ -219,8 +123,23 @@
 	<string name="melon">
 		Melon
 	</string>
+	<string name="mango_yellow">
+		Mango Yellow
+	</string>
 	<string name="wheat">
 		Wheat
+	</string>
+	<string name="almond">
+		Almond
+	</string>
+	<string name="sand">
+		Sand
+	</string>
+	<string name="sunshine">
+		Sunshine
+	</string>
+	<string name="minty_yellow">
+		Minty Yellow
 	</string>
 	<string name="dandelion">
 		Dandelion
@@ -231,11 +150,29 @@
 	<string name="lemongrass">
 		Lemongrass
 	</string>
+	<string name="lime">
+		Lime
+	</string>
+	<string name="forest">
+		Forest
+	</string>
 	<string name="pear">
 		Pear
 	</string>
+	<string name="emerald">
+		Emerald
+	</string>
+	<string name="spring_green">
+		Spring Green
+	</string>
+	<string name="mint">
+		Mint
+	</string>
 	<string name="spearmint">
 		Spearmint
+	</string>
+	<string name="peppermint">
+		Peppermint
 	</string>
 	<string name="fern">
 		Fern
@@ -243,19 +180,82 @@
 	<string name="jade">
 		Jade
 	</string>
+	<string name="turquoise">
+		Turquoise
+	</string>
+	<string name="teal">
+		Teal
+	</string>
 	<string name="sage">
 		Sage
 	</string>
-	<string name="stream">
-		Stream
+	<string name="aquamarine">
+		Aquamarine
+	</string>
+	<string name="frost">
+		Frost
 	</string>
 	<string name="aqua">
 		Aqua
 	</string>
+	<string name="stream">
+		Stream
+	</string>
+	<string name="celeste">
+		Celeste
+	</string>
+	<string name="sky">
+		Sky
+	</string>
+	<string name="aqua_light">
+		Aqua Light
+	</string>
+	<string name="baby_blue">
+		Baby Blue
+	</string>
+	<string name="ocean">
+		Ocean
+	</string>
 	<string name="sapphire">
 		Sapphire
 	</string>
+	<string name="azure">
+		Azure
+	</string>
+	<string name="periwinkle">
+		Periwinkle
+	</string>
+	<string name="lilac">
+		Lilac
+	</string>
+	<string name="lavender">
+		Lavender
+	</string>
+	<string name="royal">
+		Royal
+	</string>
+	<string name="apricot">
+		Apricot
+	</string>
+	<string name="amethyst">
+		Amethyst
+	</string>
+	<string name="floral">
+		Floral
+	</string>
+	<string name="cotton_candy">
+		Cotton Candy
+	</string>
 	<string name="bubble_gum">
 		Bubble Gum
+	</string>
+	<string name="rose">
+		Rose
+	</string>
+	<string name="flamingo">
+		Flamingo
+	</string>
+	<string name="blush">
+		Blush
 	</string>
 </resources>
